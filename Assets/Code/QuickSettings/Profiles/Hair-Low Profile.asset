@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1529486636776366429
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c604242b4dd4c8caa4d1944b94189e0, type: 3}
+  m_Name: HighQualityLineRenderingVolumeComponent
+  m_EditorClassIdentifier: 
+  active: 1
+  enable:
+    m_OverrideState: 0
+    m_Value: 0
+  compositionMode:
+    m_OverrideState: 0
+    m_Value: 0
+  clusterCount:
+    m_OverrideState: 1
+    m_Value: 8
+  sortingQuality:
+    m_OverrideState: 1
+    m_Value: 2
+  tileOpacityThreshold:
+    m_OverrideState: 1
+    m_Value: 0.9
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+  m_Name: Hair-Low Profile
+  m_EditorClassIdentifier: 
+  components:
+  - {fileID: 7320314352611684468}
+  - {fileID: -1529486636776366429}
+--- !u!114 &3535496607571356364
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfa82f4bdb1b5d4da4470b03f687f8f, type: 3}
+  m_Name: HairLODComponent
+  m_EditorClassIdentifier: 
+  active: 1
+  primaryGlobalLODScale:
+    m_OverrideState: 0
+    m_Value: 1
+  secondaryGlobalLODScale:
+    m_OverrideState: 1
+    m_Value: 0.3
+  shadingFraction:
+    m_OverrideState: 0
+    m_Value: 1
+  strandCountMultiplier:
+    m_OverrideState: 0
+    m_Value: 1
+--- !u!114 &7320314352611684468
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abfa82f4bdb1b5d4da4470b03f687f8f, type: 3}
+  m_Name: HairLODComponent
+  m_EditorClassIdentifier: 
+  active: 1
+  primaryGlobalLODScale:
+    m_OverrideState: 0
+    m_Value: 1
+  secondaryGlobalLODScale:
+    m_OverrideState: 1
+    m_Value: 0.1
+  shadingFraction:
+    m_OverrideState: 1
+    m_Value: 0.04
+  strandCountMultiplier:
+    m_OverrideState: 1
+    m_Value: 0.7

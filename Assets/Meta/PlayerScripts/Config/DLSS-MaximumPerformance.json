@@ -1,0 +1,27 @@
+{
+    "anyOverride": true,
+    "dynamicResolutionSettings": {
+        "m_OverrideState": true,
+        "m_Value": {
+            "enabled": true,
+            "useMipBias": true,
+            "enableDLSS": true,
+            "DLSSPerfQualitySetting": 0,
+            "DLSSInjectionPoint": 1,
+            "forceControlJitter": 0,
+            "conditionalStabilizeCoC": 0,
+            "DLSSUseOptimalSettings": true,
+            "DLSSSharpness": 0.5,
+            "fsrOverrideSharpness": false,
+            "fsrSharpness": 0.9200000166893005,
+            "maxPercentage": 66.66666667,
+            "minPercentage": 66.66666667,
+            "dynResType": 1,
+            "upsampleFilter": 4,
+            "forceResolution": false,
+            "forcedPercentage": 66.66666667,
+            "lowResTransparencyMinimumThreshold": 0.0,
+            "rayTracingHalfResThreshold": 50.0
+        }
+    }
+}

@@ -1,0 +1,1 @@
+Enemies.exe -force-d3d12 -force-gfx-jobs native -screen-width 1920 -screen-height 1080 -screen-fullscreen 1 -preset Low -reset-settings -nowait %* &

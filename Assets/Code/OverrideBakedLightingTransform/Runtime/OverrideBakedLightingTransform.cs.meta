@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 984d7c7afeff4104a4c2b8ec45878f33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deferredComputeShader: {fileID: 7200000, guid: 0b64f79746d2daf4198eaf6eab9af259, type: 3}
+  - ssgiComputeShader: {fileID: 7200000, guid: 96170a954eb538b40a5ff369552c3629, type: 3}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

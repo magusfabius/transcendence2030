@@ -1,0 +1,14 @@
+Base:Any
+DLSS:MaximumQuality
+@TAAU:75.0
+Texture:Full
+Material:High
+Lighting:High
+Reflections:High
+@RTReflections:On
+Occlusion:High
+@RTOcclusion:On
+Shadows:High
+@RTShadows:On
+Hair:High
+Post:High

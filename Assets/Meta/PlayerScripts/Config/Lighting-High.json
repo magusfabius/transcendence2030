@@ -1,0 +1,15 @@
+{
+    "anyOverride": true,
+    "presetQualityGeneral": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    },
+    "presetQualityTargetDisable": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    },
+    "presetQualityDomeLights": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "anyOverride": true,
+    "presetQualityFilmGrain": {
+        "m_OverrideState": true,
+        "m_Value": 0
+    },
+    "screenResolutionSettings": {
+        "m_OverrideState": false,
+        "m_Value": {
+            "screenWidth": {
+                "m_OverrideState": false,
+                "m_Value": 2560
+            },
+            "screenHeight": {
+                "m_OverrideState": false,
+                "m_Value": 1440
+            },
+            "fullScreenMode": {
+                "m_OverrideState": false,
+                "m_Value": 1
+            },
+            "preferredRefreshRate": {
+                "m_OverrideState": false,
+                "m_Value": 60
+            }
+        }
+    },
+    "dynamicResolutionTarget": {
+        "m_OverrideState": false,
+        "m_Value": {
+            "dynamicResolutionFPSTarget": {
+                "m_OverrideState": true,
+                "m_Value": 30
+            },
+            "downResLatency": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "downResMSThreshold": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "downResStepSize": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "upResLatency": {
+                "m_OverrideState": true,
+                "m_Value": 2.0
+            },
+            "upResMSThreshold": {
+                "m_OverrideState": true,
+                "m_Value": 2.5
+            },
+            "upResStepSize": {
+                "m_OverrideState": true,
+                "m_Value": 0.5
+            }
+        }
+    },
+    "audioVolume": {
+        "m_OverrideState": true,
+        "m_Value": 1.0
+    },
+    "preWarmTimeStep": {
+        "m_OverrideState": true,
+        "m_Value": 2.0
+    },
+    "heavySettingsDelay": {
+        "m_OverrideState": true,
+        "m_Value": 1.75
+    },
+    "heavySettingsFade": {
+        "m_OverrideState": true,
+        "m_Value": 0.5
+    }
+}

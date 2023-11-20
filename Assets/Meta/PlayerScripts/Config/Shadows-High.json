@@ -1,0 +1,11 @@
+{
+    "anyOverride": true,
+    "presetQualityShadows": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    },
+    "presetQualityDirectionalShadowRays": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    }
+}

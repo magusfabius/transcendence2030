@@ -1,0 +1,133 @@
+{
+    "anyOverride": true,
+    "presetQualityAO": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityGI": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityReflections": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityShadows": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityHair": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityDirectionalShadowRays": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityTargetDisable": {
+        "m_OverrideState": false,
+        "m_Value": 3
+    },
+    "presetQualityDomeLights": {
+        "m_OverrideState": false,
+        "m_Value": 4
+    },
+    "masterTextureLimit": {
+        "m_OverrideState": false,
+        "m_Value": 0
+    },
+    "anisotropicFiltering": {
+        "m_OverrideState": false,
+        "m_Value": 2
+    },
+    "anisotropicFilteringForcedMin": {
+        "m_OverrideState": false,
+        "m_Value": 16
+    },
+    "anisotropicFilteringGlobalMax": {
+        "m_OverrideState": false,
+        "m_Value": 16
+    },
+    "screenResolutionSettings": {
+        "m_OverrideState": false,
+        "m_Value": {
+            "screenWidth": {
+                "m_OverrideState": false,
+                "m_Value": 2560
+            },
+            "screenHeight": {
+                "m_OverrideState": false,
+                "m_Value": 1440
+            },
+            "fullScreenMode": {
+                "m_OverrideState": false,
+                "m_Value": 1
+            },
+            "preferredRefreshRate": {
+                "m_OverrideState": false,
+                "m_Value": 60
+            }
+        }
+    },
+    "dynamicResolutionSettings": {
+        "m_OverrideState": true,
+        "m_Value": {
+            "enabled": true,
+            "useMipBias": true,
+            "enableDLSS": true,
+            "DLSSPerfQualitySetting": 2,
+            "DLSSInjectionPoint": 1,
+            "forceControlJitter": 0,
+            "conditionalStabilizeCoC": 0,
+            "DLSSUseOptimalSettings": true,
+            "DLSSSharpness": 0.5,
+            "fsrOverrideSharpness": false,
+            "fsrSharpness": 0.9200000166893005,
+            "maxPercentage": 100.0,
+            "minPercentage": 50.0,
+            "dynResType": 1,
+            "upsampleFilter": 4,
+            "forceResolution": true,
+            "forcedPercentage": 66.66666412353516,
+            "lowResTransparencyMinimumThreshold": 0.0,
+            "rayTracingHalfResThreshold": 50.0
+        }
+    },
+    "dynamicResolutionTarget": {
+        "m_OverrideState": false,
+        "m_Value": {
+            "dynamicResolutionFPSTarget": {
+                "m_OverrideState": true,
+                "m_Value": 30
+            },
+            "downResLatency": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "downResMSThreshold": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "downResStepSize": {
+                "m_OverrideState": true,
+                "m_Value": 1.0
+            },
+            "upResLatency": {
+                "m_OverrideState": true,
+                "m_Value": 2.0
+            },
+            "upResMSThreshold": {
+                "m_OverrideState": true,
+                "m_Value": 2.5
+            },
+            "upResStepSize": {
+                "m_OverrideState": true,
+                "m_Value": 0.5
+            }
+        }
+    },
+    "audioVolume": {
+        "m_OverrideState": false,
+        "m_Value": 1.0
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "anyOverride": true,
+    "presetQualityMoBlur": {
+        "m_OverrideState": true,
+        "m_Value": 0
+    },
+    "presetQualityDoF": {
+        "m_OverrideState": true,
+        "m_Value": 3
+    },
+    "presetQualityLensFlare": {
+        "m_OverrideState": true,
+        "m_Value": 1
+    }
+}

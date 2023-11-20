@@ -1,0 +1,22 @@
+{
+    "name": "QuickSettingsDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:f9dedde5eec30c2468e14d8a7b14626e",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:01527a99bbc5f644f81c7b16df8760f9",
+        "GUID:ae6e6c3a5c314d948b02de173b0713a7",
+        "GUID:9453d175408a39041822ad283addc498"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

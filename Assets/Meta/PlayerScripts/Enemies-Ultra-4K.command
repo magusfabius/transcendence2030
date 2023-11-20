@@ -1,0 +1,1 @@
+cd "${0%/*}"; open -n ./Enemies.app --args -force-d3d12 -force-gfx-jobs native -screen-width 3840 -screen-height 2160 -screen-fullscreen 1 -preset Ultra -reset-settings -nowait %* &

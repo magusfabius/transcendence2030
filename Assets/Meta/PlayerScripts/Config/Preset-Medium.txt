@@ -1,0 +1,14 @@
+Base:Any
+DLSS:MaximumPerformance
+@TAAU:60.0
+Texture:Half
+Material:Medium
+Lighting:Medium
+Reflections:Medium
+@RTReflections:Off
+Occlusion:Low
+@RTOcclusion:Off
+Shadows:Medium
+@RTShadows:Off
+Hair:Medium
+Post:Low

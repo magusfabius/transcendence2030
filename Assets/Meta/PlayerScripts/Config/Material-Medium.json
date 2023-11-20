@@ -1,0 +1,19 @@
+{
+    "anyOverride": true,
+    "materialQuality": {
+        "m_OverrideState": true,
+        "m_Value": 3
+    },
+    "anisotropicFiltering": {
+        "m_OverrideState": true,
+        "m_Value": 1
+    },
+    "anisotropicFilteringForcedMin": {
+        "m_OverrideState": true,
+        "m_Value": 4
+    },
+    "anisotropicFilteringGlobalMax": {
+        "m_OverrideState": true,
+        "m_Value": 8
+    }
+}

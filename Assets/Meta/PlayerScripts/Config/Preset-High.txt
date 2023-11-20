@@ -1,0 +1,14 @@
+Base:Any
+DLSS:Balanced
+@TAAU:66.667
+Texture:Full
+Material:High
+Lighting:High
+Reflections:Medium
+@RTReflections:On
+Occlusion:Medium
+@RTOcclusion:Off
+Shadows:High
+@RTShadows:On
+Hair:Medium
+Post:Medium

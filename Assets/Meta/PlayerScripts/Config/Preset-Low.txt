@@ -1,0 +1,14 @@
+Base:Any
+DLSS:UltraPerformance
+@TAAU:50.0
+Texture:Quarter
+Material:Low
+Lighting:Low
+Reflections:Off
+@RTReflections:Off
+Occlusion:Low
+@RTOcclusion:Off
+Shadows:Low
+@RTShadows:Off
+Hair:Low
+Post:Low
