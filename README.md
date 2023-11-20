@@ -1,6 +1,6 @@
 # Earth 2030: Mission Transcendence
 
-Image [link]
+![Cover](https://github.com/magusfabius/transcendence2030/blob/main/Documentation/media/DALL%C2%B7E_2023_11_19_11_43_17_A_first_person_view_in_a_vibrant,_eco.png?raw=true)
 
 ## Overview
 "Earth 2030: Mission Transcendence" is not just a game; it's an immersive experience that blurs the lines between virtual and real worlds. It's about the human journey, leveraging real-world data and scientific predictions to create a deeply engaging and educational simulation.
